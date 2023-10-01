@@ -1,0 +1,2 @@
+# Blog-Website
+The blog-website is Node.js-based blog website built with the Express.js framework and powered by EJS (Embedded JavaScript) templates. This platform allows users to explore a diverse collection of blog posts, read and engage with individual posts, create new blog content, edit existing posts, and seamlessly manage their blogs. It's the perfect space for both bloggers to share their insights and readers to discover captivating content
